@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/renancavichi/api-bke-express-2sem2024.git"
+    "url": "git+https://github.com/NatanRCruz/api-back-express"
   },
   "keywords": [
     "api",
@@ -18,12 +18,12 @@
     "zod",
     "mvc"
   ],
-  "author": "Renan Cavichi",
+  "author": "NatanRCruz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/renancavichi/api-bke-express-2sem2024/issues"
+    "url": "https://github.com/NatanRCRuz/api-back-express/issues"
   },
-  "homepage": "https://github.com/renancavichi/api-bke-express-2sem2024#readme",
+  "homepage": "https://github.com/NatanRCruz/api-bke-express#readme",
   "dependencies": {
     "express": "^4.19.2"
   }

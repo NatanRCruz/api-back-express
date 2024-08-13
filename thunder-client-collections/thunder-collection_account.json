@@ -1,0 +1,59 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "account",
+    "collectionId": "8ddba191-7fab-4382-bb73-2186621c5c47",
+    "dateExported": "2024-08-13T19:35:25.005Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "ceb1484e-acb2-4e30-baea-4c3ee68ce81b",
+            "colId": "8ddba191-7fab-4382-bb73-2186621c5c47",
+            "containerId": "",
+            "name": "/account/",
+            "url": "{{BASE_URL}}/account/",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2024-08-13T18:52:06.256Z",
+            "modified": "2024-08-13T18:52:58.977Z",
+            "headers": []
+        },
+        {
+            "_id": "09850380-080a-41a4-a946-91d14b1f18bf",
+            "colId": "8ddba191-7fab-4382-bb73-2186621c5c47",
+            "containerId": "",
+            "name": "/account/:id",
+            "url": "{{BASE_URL}}/account/:id",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-08-13T18:56:26.415Z",
+            "modified": "2024-08-13T18:58:09.923Z",
+            "headers": []
+        },
+        {
+            "_id": "76e836dc-063c-4b5d-a1d3-5de27466e1aa",
+            "colId": "8ddba191-7fab-4382-bb73-2186621c5c47",
+            "containerId": "",
+            "name": "/account/:id",
+            "url": "{{BASE_URL}}/account/:id",
+            "method": "DELETE",
+            "sortNum": 30000,
+            "created": "2024-08-13T19:25:33.238Z",
+            "modified": "2024-08-13T19:25:47.664Z",
+            "headers": []
+        },
+        {
+            "_id": "7db8bb38-0bfb-4a46-9902-b1214be03f6d",
+            "colId": "8ddba191-7fab-4382-bb73-2186621c5c47",
+            "containerId": "",
+            "name": "/account/:id ",
+            "url": "{{BASE_URL}}/account/:id",
+            "method": "PUT",
+            "sortNum": 30000,
+            "created": "2024-08-13T19:26:04.318Z",
+            "modified": "2024-08-13T19:26:22.157Z",
+            "headers": []
+        }
+    ],
+    "ref": "Sid0pc0ZBIbun1D_HSCsg0xMks_M00KcX-oTKvWhUPrknkyZcx62ezcEAN7DSMkOJhzAhV8oiwnSap0NUsv7mQ"
+}
